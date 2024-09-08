@@ -37,6 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,sass,vue,vites" />
+    <br>
     <img src="https://skillicons.dev/icons?i=github,git,vscode" /><br>
 </div>
 
