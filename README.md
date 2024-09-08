@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **Javascript**, with a special focus on **Frontend Developer**.
 
- ⚡ Fun fact **hhmm...maybe When I'm confused about what to name a class or variable, I let ChatGPT choose the name** ✌️
+ ⚡ Fun fact **coding -> playing valo/watching netflix -> coding**.
 
  📫 How to reach me
 
