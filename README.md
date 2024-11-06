@@ -8,20 +8,14 @@
 
 <br/>
 
-<div align="center">
- 
- 👋 Hi, I’m Gading Khairlambang!.
+<img align="right" alt="Coding" width="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
 
- 🔭 I’m an **Informatics student** at university logistic and business international.
- 
- 🌱 I’m currently learning **Javascript**, with a special focus on **Frontend Developer**.
+👋 Hi, I’m Gading Khairlambang!.
+<br>🔭 I’m an **Informatics student** at University Logistic and Business International.
+<br>🌱 I’m currently learning **JavaScript**, with a special focus on **Frontend Developer**.
+<br>⚡ Fun fact: **coding -> playing valo/watching netflix -> coding**.
+<br>📫 How to reach me:
 
- ⚡ Fun fact **coding -> playing valo/watching netflix -> coding**.
-
- 📫 How to reach me
-
- </div>
- 
 <div align="center"> 
   <a href="mailto:sasakihaise985@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -30,6 +24,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
 
  <hr/>
  
