@@ -13,7 +13,7 @@
 👋 Hi, I’m Gading Khairlambang!.
 <br>🔭 I’m an **Informatics student** at University Logistic and Business International.
 <br>🌱 I’m currently learning **JavaScript**, with a special focus on **Frontend Developer**.
-<br>⚡ Fun fact: **coding -> playing valo/watching netflix -> coding**.
+<br>⚡ Fun fact: **Ctrl+Z Shortcut is the Panic Button**.
 <br>📫 How to reach me:
 
 <div align="center"> 
