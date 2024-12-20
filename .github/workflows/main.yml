@@ -1,33 +1,38 @@
-
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 name: Generate Snake
 
 # Controls when the action will run.
 on:
   schedule:
-      # every 12 hours
+      # Run every 12 hours
     - cron: "0 */12 * * *"
 
-  # This command allows us to run the Action automatically from the Actions tab.
+  # Allow manual trigger from the Actions tab
   workflow_dispatch:
-  
-  # Also run on every push on the master branch
+
+  # Trigger also on pushes to the main branch
   push:
     branches:
     - main
 
-# The sequence of runs in this workflow:
+# The sequence of runs in this workflow
 jobs:
-  # This workflow contains a single job called "build"
+  # Single job named "build"
   build:
-    # The type of runner that the job will run on
+    # Define the runner type
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    # Define permissions for GITHUB_TOKEN
+    permissions:
+      contents: write
+
+    # Steps for the job
     steps:
-      - name: Clone repo
+      # Step 1: Clone the repository
+      - name: Clone repository
         uses: actions/checkout@v3
-    
+
+      # Step 2: Generate snake contribution graph files
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         id: snake-gif
@@ -38,11 +43,13 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
 
+      # Step 3: Show the build status for debugging
       - name: Show build status
         run: git status
 
+      # Step 4: Push the generated files to the output branch
       - name: Push new files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -50,4 +57,4 @@ jobs:
           build_dir: dist
           commit_message: Update snake animations
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
