@@ -51,8 +51,11 @@
 </div>
 
 <hr/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mieramensatu&theme=github-compact&radius=16" height="auto" alt="by fatkhurhhn"/>
+</div>
 
-<!-- Statistik -->
+<hr/>
 <h2 align="center" style="color:#42b883;">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
