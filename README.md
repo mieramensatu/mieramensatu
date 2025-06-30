@@ -3,11 +3,13 @@
 
 <!-- Teks Judul dengan Animasi -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=42b883&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gading+Khairlambang!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&size=35&color=7dcfff&center=true&vCenter=true&width=800&height=70&lines=Hi+There!+👋;+I'm+Gading+Khairlambang!;Frontend+Developer+%2F+Data+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <!-- Deskripsi Singkat -->
-<h3 align="center" style="color:#35495e; font-style: italic;">A passionate Frontend Developer & Data Enthusiast from Indonesia 🇮🇩</h3>
+<h3 align="center" style="color:#7dcfff; font-style: italic;">
+  ⚛️ Frontend Developer • 📊 Data Enthusiast • 🇮🇩 Indonesia
+</h3>
 
 <br/>
 
@@ -33,19 +35,19 @@
 
 <hr/>
 
-<h2 align="center" style="color:#42b883;">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center" style="color:#7dcfff;">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,sass,vue&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,sass,react&theme=dark" />
     <br>
-    <img src="https://skillicons.dev/icons?i=vite,github,git,vscode,notion&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=vite,github,py,vscode,notion&theme=dark" /><br>
 </div>
 
 <hr/>
 
 <!-- Animasi Ular Kontribusi -->
 <div align="center">
-  <h2 style="color:#42b883;">🐍 My Contributions 🐍</h2>
+  <h2 style="color:#7dcfff;">🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mieramensatu/mieramensatu/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
   <br/><br/><br/>
@@ -53,17 +55,17 @@
 
 <hr/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mieramensatu&theme=github-compact&radius=16" height="auto" alt="by gading khairlambang"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mieramensatu&theme=tokyo-night&radius=16" height="auto" />
 </div>
 
 <hr/>
-<h2 align="center" style="color:#42b883;">⚡ Stats ⚡</h2>
+<h2 align="center" style="color:#7dcfff;">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=mieramensatu&theme=vue-dark&card_width=494&border_radius=10&border=42b883" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mieramensatu&show_icons=true&theme=vue-dark&rank_icon=github&border_radius=10&border_color=42b883" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=mieramensatu&theme=tokyonight&card_width=494&border_radius=10&border=1e1e3f" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mieramensatu&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&border_color=1e1e3f" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mieramensatu&layout=compact&hide=PHP&langs_count=8&theme=vue-dark&border_radius=10&border_color=42b883" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mieramensatu&layout=compact&hide=PHP&langs_count=8&theme=tokyonight&border_radius=10&border_color=1e1e3f" />
 </div>
 
 <br/><br/>
@@ -71,6 +73,7 @@
 <hr/>
 
 <!-- Penutupan dengan Animasi Teks -->
-<h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=25&color=42b883&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!✌️+;Shoot+me+a+message+on+LinkedIn!💌;I'm+always+ready+to+make+a+website!🫶🏻" />
-</h3>
+<blockquote align="center">
+  <em>"Code is not just what a computer understands. It's what humans can maintain."</em><br/>
+  — Gading Khairlambang
+</blockquote>
