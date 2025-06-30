@@ -7,7 +7,7 @@
 </h1>
 
 <!-- Deskripsi Singkat -->
-<h3 align="center" style="color:#35495e; font-style: italic;">A passionate frontend developer from Indonesia 🇮🇩</h3>
+<h3 align="center" style="color:#35495e; font-style: italic;">A passionate Frontend Developer & Data Enthusiast from Indonesia 🇮🇩</h3>
 
 <br/>
 
@@ -18,6 +18,7 @@
 - 👋 Hi, I’m **Gading Khairlambang!**
 - 🎓 I’m an **Informatics student** at **University Logistic and Business International**.
 - 🌱 Currently learning **JavaScript**, focusing on **Frontend Development**.
+- 📊 I'm also exploring **Data Science** and **Machine Learning** to broaden my problem-solving skills.
 - ⚡ Fun fact: **Ctrl+Z Shortcut is the Panic Button**.
 - 📫 How to reach me:
 
@@ -52,7 +53,7 @@
 
 <hr/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mieramensatu&theme=github-compact&radius=16" height="auto" alt="by fatkhurhhn"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mieramensatu&theme=github-compact&radius=16" height="auto" alt="by gading khairlambang"/>
 </div>
 
 <hr/>
